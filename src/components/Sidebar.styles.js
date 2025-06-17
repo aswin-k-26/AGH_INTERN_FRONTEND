@@ -104,7 +104,7 @@ export const FavoriteIconWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 20000px;
+  width: 20px;
   height: 20px;
 `;
 
